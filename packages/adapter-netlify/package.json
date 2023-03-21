@@ -37,7 +37,7 @@
 	"devDependencies": {
 		"@netlify/functions": "^1.0.0",
 		"@rollup/plugin-commonjs": "^21.0.0",
-		"@rollup/plugin-json": "^4.1.0",
+		"@rollup/plugin-json": "^6.0.0",
 		"@rollup/plugin-node-resolve": "^13.0.5",
 		"@sveltejs/kit": "workspace:*",
 		"rimraf": "^3.0.2",

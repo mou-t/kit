@@ -25,7 +25,7 @@
 	"devDependencies": {
 		"@changesets/cli": "^2.18.1",
 		"@rollup/plugin-commonjs": "^21.0.1",
-		"@rollup/plugin-json": "^4.1.0",
+		"@rollup/plugin-json": "^6.0.0",
 		"@rollup/plugin-node-resolve": "^13.0.6",
 		"@sveltejs/eslint-config": "github:sveltejs/eslint-config#v5.8.0",
 		"@svitejs/changesets-changelog-github-compact": "^0.1.1",
